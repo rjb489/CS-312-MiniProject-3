@@ -1,0 +1,28 @@
+body
+{
+   background-color: antiquewhite;
+   text-align: center;
+}
+h2, p
+{
+   color: black;
+}
+
+button
+{
+   background-color: cornflowerblue;
+   color: #265480;
+   padding: 10px 10px;
+}
+
+.center-button
+{
+ justify-content: center;
+}
+
+.postbox
+{
+   border: 2px solid saddlebrown;
+   padding: 20px;
+   margin: 20px;
+}
